@@ -1,0 +1,42 @@
+/* Your button CSS file */
+@import url('https://fonts.googleapis.com/css?family=Exo+2:300,400,700,900&display=swap');
+.btn-medium{
+  font-family: 'Exo 2', sans-serif;
+  font-size: 20px;
+  font-weight: 900;
+  background-color: #0c7b93;
+  color: white;
+  border-radius: 4px;
+  padding: 15px 10px;
+  transition: 0.5s;
+}
+
+.btn-treehouse{
+  font-family: 'Exo 2', sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  background-color: #E5E5E5;
+  color: black;
+  border-radius: 50%;
+  padding: 15px 10px;
+  box-shadow: 4px 2px 5px rgba(0,0,0,0.3);
+  transition: 0.5s;
+}
+
+.btn-yours{
+  background-color:
+   font-family: 'Exo 2', sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  background-color: #c02739;
+  color: black;
+  border-radius: 25%;
+  padding: 15px 10px;
+  box-shadow: 4px 2px 5px rgba(0,0,0,0.3);
+  transition: 0.5s;
+}
+
+.btn:hover{
+  color: grey;
+  font-size: 21px;
+}
